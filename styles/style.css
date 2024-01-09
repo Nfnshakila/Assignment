@@ -1,0 +1,248 @@
+*{
+    margin: 20px;
+
+}
+
+ .banner {
+      background-image: url(../resources/Banner\ Image.png);
+     background-repeat: no-repeat;
+     background-position: bottom center;
+     background-size: cover;
+     height: 100vh;
+     border-radius: 16px;
+     margin: 60px 100px 0px 100px;
+ }
+
+ .banner-title {
+     text-align: center;
+     color: #FFF;
+     font-size: 30px;
+     font-weight: 300px;
+     border-radius: 16px;
+     padding: 50px 100px 0px 100px;
+     
+ }
+
+
+ .banner-description {
+     font-size: 100px;
+     color: #FFF;
+     width: 630px;
+     text-align: center;
+     padding:50px 100px;
+     margin: auto;
+
+
+ }
+.offer{
+    font-size: 80px;
+    text-align: center;
+    color: red;
+}
+.offer-description{
+    text-align: center;
+    font-size: 20px;
+    color: red;
+}
+.offer-header{
+    text-align: center;
+    font-size: 45px;
+}
+.new-year-image{
+    text-align: center;
+}
+.party{
+ background-image: url(../resources/Vectorrr.png); 
+ background-repeat: no-repeat;
+     background-position: bottom center;
+     background-size: cover;
+     height: 100vh;
+     border-radius: 16px;
+     margin: 60px 100px 0px 100px;
+}
+.party-head{
+    color: white;
+    font-size: 100px;
+    margin: auto;
+    padding: 125px 700px 295px 125px;
+
+}
+.party-paragraph{
+    font-size: 30px;
+    color: rgba(255, 255, 255, 0.80);
+    font-weight: 400;
+    margin: auto;
+    padding: 0px 700px 0px 125px;
+}
+.Location{
+    background-color: rgb(239, 179, 188);
+    height: 70vh;
+     border-radius: 16px;
+     margin: 60px 100px 0px 100px;
+     text-align: center;
+     padding-top: 200px;
+
+}
+.place{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 55px;
+}
+.place-color{
+    color: #F00;
+}
+.button{
+    color: white;
+    background-color: black;
+    margin-left: 125px;
+    margin-top: 15px;
+}
+.join-now{
+    color: white;
+    background-color: #F00;
+    padding: 10px 30px;
+    font-size: 20px;
+
+}
+.best{
+    color: #F00;
+    font-size: 25px;
+    font-weight: 500;
+    padding: 0px 300px 0px 0px; 
+    
+    display: inline;
+}
+.Coming-Soon{
+    color: #070211;
+    font-size: 50px;
+    font-weight: 900;
+    padding: 0px 180px 0px 0px;
+    margin: center;
+    
+    
+}
+.best-paragraph{
+  font-size: 18px;
+  font-weight: 400;
+  color:rgba(7, 2, 17, 0.60);
+  line-height: 30px;
+  padding: 0px 190px 0px 0px;
+  margin: center;
+   
+}
+.round-pic{
+    margin: center;
+    display: flex;
+    
+}
+.year{
+    color: #F00;
+    font-size: 50px;
+    font-weight: 700;
+}
+.new-year{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+}
+.best-offer{
+
+}
+.new-year-new-offer{
+    padding: 0px 0px 0px 200px;
+
+}
+
+.best-offer-section{
+    background-color: #FFF;
+    height: 70vh;
+    display: flex;
+     border-radius: 16px;
+     margin: 60px 100px 0px 100px;
+     text-align: center;
+     padding-top: 200px;
+}
+.WHAT-IS-FUNCTIONAL{
+    text-align: center;
+    font-size: 25px;
+    font-weight: 500;
+}
+.Holidays-Sale{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 900;  
+
+}
+.holiday-paragraph{
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+.THE-BEST-GIFTS{
+    color: #F00;
+    font-size: 25px;
+    font-weight: 500;
+    margin-left: 100px;
+    padding-top: 200px;
+
+}
+.Our-Awesome-Portfolio{
+    color: #070211;
+    font-size: 80px;
+    font-weight: 900;
+    margin-left: 100px;
+    margin-top: 0px;
+
+}
+.portfolio-paragraph{
+    color: black;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+.first-three-image{
+    margin-left: 100px;
+    
+   
+}
+.first-image{
+    padding-right: 30px;
+    border: 3px;
+}
+.second-image{
+    padding-right: 30px;
+}
+.second-three-image{
+    margin-left: 100px; 
+}
+.fourth-image{
+    padding-right: 40px;  
+}
+.fifth-image{
+    padding-right: 30px;  
+}
+.group-png{
+  padding-left: 720px;
+}
+.Subscribe-Newsletter{
+    font-weight: 900;
+    font-size: 80px;
+    text-align: center;
+}
+.subscribe-paragraph{
+    text-align: center;
+    font-size: 20px;
+} 
+.input-button{
+    align-items: center;
+    font-size: 80px;
+    margin-left: 20px;
+}
+.last-section{
+    background-color: rgb(154, 152, 149);
+    background-size: cover;
+    background-position: bottom center;
+    padding: 30px 100px 30px 100px;
+}
